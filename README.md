@@ -5,16 +5,18 @@ Just a silly challenge to write a hello world program in 50 programming language
 
 1- Ada: hello.adb
 
-2- C: hello.c
+2- Batch: hello.bat
 
-3- C++: hello.cpp
+3- C: hello.c
 
-4- Fortran: hello.f90
+4- C++: hello.cpp
 
-5- Perl: hello.pl
+5- Fortran: hello.f90
 
-6- Python 2: hello2.py
+6- Perl: hello.pl
 
-7- Python 3: hello3.py
+7- Python 2: hello2.py
+
+8- Python 3: hello3.py
 
 More will be added soon!
