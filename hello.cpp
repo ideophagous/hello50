@@ -1,8 +1,9 @@
+using namespace std;
+
 #include <iostream>
 
 int main()
 {
-    auto lambda = [](auto x){ return x; };
-    std::cout << lambda("Hello World!\n");
+    cout << "Hello World!\n";
     return 0;
 }
