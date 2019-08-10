@@ -9,8 +9,6 @@ Just a silly challenge to write a hello world program in 50 programming language
 
 3- Fortran: hello.f90
 
-4- OCaml: hello.ml
-
-5- Perl: hello.pl
+4- Perl: hello.pl
 
 More will be added soon!
