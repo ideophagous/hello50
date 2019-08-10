@@ -13,6 +13,8 @@ Just a silly challenge to write a hello world program in 50 programming language
 
 5- Perl: hello.pl
 
-6- Python 3: hello3.py
+6- Python 2: hello2.py
+
+7- Python 3: hello3.py
 
 More will be added soon!
