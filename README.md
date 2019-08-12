@@ -13,10 +13,12 @@ Just a silly challenge to write a hello world program in 50 programming language
 
 5- Fortran: hello.f90
 
-6- Perl: hello.pl
+6- Go: hello.go
 
-7- Python 2: hello2.py
+7- Perl: hello.pl
 
-8- Python 3: hello3.py
+8- Python 2: hello2.py
+
+9- Python 3: hello3.py
 
 More will be added soon!
