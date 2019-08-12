@@ -17,10 +17,12 @@ Just a silly challenge to write a hello world program in 50 programming language
 
 7- Perl: hello.pl
 
-8- Python 2: hello2.py
+8- PL/SQL: hello_plsql.sql
 
-9- Python 3: hello3.py
+9- Python 2: hello2.py
 
-10- SQL: hello.sql
+10- Python 3: hello3.py
+
+11- SQL: hello.sql
 
 More will be added soon!
