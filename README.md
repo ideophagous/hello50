@@ -21,4 +21,6 @@ Just a silly challenge to write a hello world program in 50 programming language
 
 9- Python 3: hello3.py
 
+10- SQL: hello.sql
+
 More will be added soon!
