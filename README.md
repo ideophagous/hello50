@@ -13,20 +13,22 @@ Just a silly challenge to write a hello world program in 50 programming language
 
 5- Elixir: hello.ex
 
-6- Fortran: hello.f90
+6- Erlang: hello.erl
 
-7- Go: hello.go
+7- Fortran: hello.f90
 
-8- Java: hello.java
+8- Go: hello.go
 
-9- Perl: hello.pl
+9- Java: hello.java
 
-10- PL/SQL: hello_plsql.sql (run on Oracle SQL Developer)
+10- Perl: hello.pl
 
-11- Python 2: hello2.py
+11- PL/SQL: hello_plsql.sql (run on Oracle SQL Developer)
 
-12- Python 3: hello3.py
+12- Python 2: hello2.py
 
-13- SQL: hello.sql (run on Oracle SQL Developer)
+13- Python 3: hello3.py
+
+14- SQL: hello.sql (run on Oracle SQL Developer)
 
 More will be added soon!
