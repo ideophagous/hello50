@@ -23,14 +23,14 @@ Just a silly challenge to write a hello world program in 50 programming language
 
 10- Javascript: hello.js (hello.html is also needed to display the message)
 
-10- Perl: hello.pl
+11- Perl: hello.pl
 
-11- PL/SQL: hello_plsql.sql (run on Oracle SQL Developer)
+12- PL/SQL: hello_plsql.sql (run on Oracle SQL Developer)
 
-12- Python 2: hello2.py
+13- Python 2: hello2.py
 
-13- Python 3: hello3.py
+14- Python 3: hello3.py
 
-14- SQL: hello.sql (run on Oracle SQL Developer)
+15- SQL: hello.sql (run on Oracle SQL Developer)
 
 More will be added soon!
