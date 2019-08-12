@@ -21,6 +21,8 @@ Just a silly challenge to write a hello world program in 50 programming language
 
 9- Java: hello.java
 
+10- Javascript: hello.js (hello.html is also needed to display the message)
+
 10- Perl: hello.pl
 
 11- PL/SQL: hello_plsql.sql (run on Oracle SQL Developer)
