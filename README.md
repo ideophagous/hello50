@@ -15,14 +15,16 @@ Just a silly challenge to write a hello world program in 50 programming language
 
 6- Go: hello.go
 
-7- Perl: hello.pl
+7- Java: hello.java
 
-8- PL/SQL: hello_plsql.sql (run on Oracle SQL Developer)
+8- Perl: hello.pl
 
-9- Python 2: hello2.py
+9- PL/SQL: hello_plsql.sql (run on Oracle SQL Developer)
 
-10- Python 3: hello3.py
+10- Python 2: hello2.py
 
-11- SQL: hello.sql (run on Oracle SQL Developer)
+11- Python 3: hello3.py
+
+12- SQL: hello.sql (run on Oracle SQL Developer)
 
 More will be added soon!
