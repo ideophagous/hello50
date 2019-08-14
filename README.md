@@ -21,7 +21,7 @@ Just a silly challenge to write a hello world program in 50 programming language
 
 9- Java: hello.java
 
-10- Javascript: hello.js (hello.html is also needed to display the message)
+10- Javascript: hello.js (hello.html is also needed to display the message on the browser console)
 
 11- Linux Shell: hello.sh
 
