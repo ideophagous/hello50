@@ -35,4 +35,6 @@ Just a silly challenge to write a hello world program in 50 programming language
 
 16- SQL: hello.sql (run on Oracle SQL Developer)
 
+17- Swift: hello.swift
+
 More will be added soon!
