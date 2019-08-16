@@ -11,32 +11,34 @@ Just a silly challenge to write a hello world program in 50 programming language
 
 4- C++: hello.cpp
 
-5- Elixir: hello.ex
+5- Cobol: hello.cob
 
-6- Erlang: hello.erl
+6- Elixir: hello.ex
 
-7- Fortran: hello.f90
+7- Erlang: hello.erl
 
-8- Go: hello.go
+8- Fortran: hello.f90
 
-9- Java: hello.java
+9- Go: hello.go
 
-10- Javascript: hello.js (hello.html is also needed to display the message on the browser console)
+10- Java: hello.java
 
-11- Linux Shell: hello.sh
+11- Javascript: hello.js (hello.html is also needed to display the message on the browser console)
 
-12- OCaml: hello.ml
+12- Linux Shell: hello.sh
 
-13- Perl: hello.pl
+13- OCaml: hello.ml
 
-14- PL/SQL: hello_plsql.sql (run on Oracle SQL Developer)
+14- Perl: hello.pl
 
-15- Python 2: hello2.py
+15- PL/SQL: hello_plsql.sql (run on Oracle SQL Developer)
 
-16- Python 3: hello3.py
+16- Python 2: hello2.py
 
-17- SQL: hello.sql (run on Oracle SQL Developer)
+17- Python 3: hello3.py
 
-18- Swift: hello.swift
+18- SQL: hello.sql (run on Oracle SQL Developer)
+
+19- Swift: hello.swift
 
 More will be added soon!
