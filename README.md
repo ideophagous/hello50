@@ -25,16 +25,18 @@ Just a silly challenge to write a hello world program in 50 programming language
 
 11- Linux Shell: hello.sh
 
-12- Perl: hello.pl
+12- OCaml: hello.ml
 
-13- PL/SQL: hello_plsql.sql (run on Oracle SQL Developer)
+13- Perl: hello.pl
 
-14- Python 2: hello2.py
+14- PL/SQL: hello_plsql.sql (run on Oracle SQL Developer)
 
-15- Python 3: hello3.py
+15- Python 2: hello2.py
 
-16- SQL: hello.sql (run on Oracle SQL Developer)
+16- Python 3: hello3.py
 
-17- Swift: hello.swift
+17- SQL: hello.sql (run on Oracle SQL Developer)
+
+18- Swift: hello.swift
 
 More will be added soon!
