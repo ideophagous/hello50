@@ -1,5 +1,5 @@
 # hello50
-Hello World in 50 programming languages - 22/50
+Hello World in 50 programming languages - 23/50
 
 A personal challenge to write a hello world program in 50 programming languages. The only two conditions are that the compiler has to be installed on a local machine, and the program has to be written manually, and run successfully.
 
@@ -37,14 +37,16 @@ A personal challenge to write a hello world program in 50 programming languages.
 
 17- PL/SQL: hello.pls (run on Oracle SQL Developer)
 
-18- Python 2: hello2.py
+18- PHP: hello.php
 
-19- Python 3: hello3.py
+19- Python 2: hello2.py
 
-20- SQL: hello.sql (run on Oracle SQL Developer)
+20- Python 3: hello3.py
 
-21- Swift: hello.swift
+21- SQL: hello.sql (run on Oracle SQL Developer)
 
-22- Unix Shell: hello.sh
+22- Swift: hello.swift
+
+23- Unix Shell: hello.sh
 
 More will be added soon!
