@@ -35,7 +35,7 @@ A personal challenge to write a hello world program in 50 programming languages.
 
 16- Perl: hello.pl
 
-17- PL/SQL: hello_plsql.sql (run on Oracle SQL Developer)
+17- PL/SQL: hello.pls (run on Oracle SQL Developer)
 
 18- Python 2: hello2.py
 
