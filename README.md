@@ -49,4 +49,6 @@ A personal challenge to write a hello world program in 50 programming languages.
 
 23- Unix Shell: hello.sh
 
+24- Wyvern: hello.wyv
+
 More will be added soon!
