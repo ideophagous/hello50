@@ -1,5 +1,5 @@
 # hello50
-Hello World in 50 programming languages - 26/50
+Hello World in 50 programming languages - 27/50
 
 A personal challenge to write a hello world program in 50 programming languages. The only two conditions are that the compiler has to be installed on a local machine, and the program has to be written manually, and run successfully.
 
@@ -27,32 +27,34 @@ A personal challenge to write a hello world program in 50 programming languages.
 
 12- Javascript: hello.js (hello.html is also needed to display the message on the browser console)
 
-13- Matlab/Octave: hello.m
+13- Julia: hello.jl
 
-14- OCaml: hello.ml
+14 Matlab/Octave: hello.m
 
-15- Pascal: hello.pas
+15- OCaml: hello.ml
 
-16- Perl: hello.pl
+16- Pascal: hello.pas
 
-17- PL/SQL: hello.pls (run on Oracle SQL Developer)
+17- Perl: hello.pl
 
-18- PHP: hello.php
+18- PL/SQL: hello.pls (run on Oracle SQL Developer)
 
-19- Prolog: hello_prolog.pl
+19- PHP: hello.php
 
-20- Python 2: hello2.py
+20- Prolog: hello_prolog.pl
 
-21- Python 3: hello3.py
+21- Python 2: hello2.py
 
-22- R: hello.R
+22- Python 3: hello3.py
 
-23- SQL: hello.sql (run on Oracle SQL Developer)
+23- R: hello.R
 
-24- Swift: hello.swift
+24- SQL: hello.sql (run on Oracle SQL Developer)
 
-25- Unix Shell: hello.sh
+25- Swift: hello.swift
 
-26- Wyvern: hello.wyv
+26- Unix Shell: hello.sh
+
+27- Wyvern: hello.wyv
 
 More will be added soon!
