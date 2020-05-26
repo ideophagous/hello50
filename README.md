@@ -45,12 +45,14 @@ A personal challenge to write a hello world program in 50 programming languages.
 
 21- Python 3: hello3.py
 
-22- SQL: hello.sql (run on Oracle SQL Developer)
+22- R: hello.R
 
-23- Swift: hello.swift
+23- SQL: hello.sql (run on Oracle SQL Developer)
 
-24- Unix Shell: hello.sh
+24- Swift: hello.swift
 
-25- Wyvern: hello.wyv
+25- Unix Shell: hello.sh
+
+26- Wyvern: hello.wyv
 
 More will be added soon!
