@@ -1,5 +1,5 @@
 # hello50
-Hello World in 50 programming languages - 29/50
+Hello World in 50 programming languages - 30/50
 
 A personal challenge to write a hello world program in 50 programming languages. The only two conditions are that the compiler has to be installed on a local machine, and the program has to be written manually, and run successfully.
 
@@ -59,6 +59,8 @@ A personal challenge to write a hello world program in 50 programming languages.
 
 28- Unix Shell: hello.sh
 
-29- Wyvern: hello.wyv
+29- VBScript: hello.vbs
+
+30- Wyvern: hello.wyv
 
 More will be added soon!
