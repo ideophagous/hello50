@@ -11,9 +11,9 @@ On Windows:
 - Install MASM32: https://www.masm32.com/download.htm
 - Make sure the path to MASM32 bin folder is in the PATH environment variable
 - Run the following instructions on the Windows command line:
- - ml /c /coff /Cp hello.asm
- - link /subsystem:console hello.obj
- - hello
+       - ml /c /coff /Cp hello.asm
+       - link /subsystem:console hello.obj
+       - hello
 
 3- Batch: hello.bat
 
