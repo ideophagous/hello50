@@ -12,6 +12,7 @@ On Windows:
 - Make sure the path to MASM32 bin folder is in the PATH environment variable
 - Run the following instructions on the Windows command line:
 ```
+cd path/to/script/folder
 ml /c /coff /Cp hello.asm
 link /subsystem:console hello.obj
 hello
@@ -52,6 +53,7 @@ On Windows:
 - Make sure the paths to Lua and CMAKE bin folders are in the PATH environment variable
 - On Windows command line run:
 ```
+cd path/to/script/folder
 lua hello.lua
 ```
 
