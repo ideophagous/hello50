@@ -53,8 +53,8 @@ On Windows:
 - Make sure the paths to Lua and CMAKE bin folders are in the PATH environment variable
 - On Windows command line run:
 ```
-cd path/to/script/folder
-lua hello.lua
+> cd path/to/script/folder
+> lua hello.lua
 ```
 
 18- Matlab/Octave: hello.m
@@ -81,8 +81,8 @@ On Windows:
 - Make sure the path to bin folder is on the PATH environment variable
 - Run the following instructions on the command line:
 ```
-cd path/to/script/folder
-Rscript hello.R
+> cd path/to/script/folder
+> Rscript hello.R
 ```
 
 28- SQL: hello.sql (run on Oracle SQL Developer)
