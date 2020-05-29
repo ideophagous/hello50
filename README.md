@@ -38,7 +38,7 @@ A personal challenge to write a hello world program in 50 programming languages.
 17- Lua: hello.lua
 
 On Windows:
-- Install Lua: http://luadist.org/
+- Download Lua folder: http://luadist.org/
 - Install CMAKE: https://cmake.org/download/
 - Make sure the paths to Lua and CMAKE bin folders are in the PATH environment variable
 - On Windows command line run: lua hello.lua
