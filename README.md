@@ -50,7 +50,10 @@ On Windows:
 - Download Lua folder: http://luadist.org/
 - Install CMAKE: https://cmake.org/download/
 - Make sure the paths to Lua and CMAKE bin folders are in the PATH environment variable
-- On Windows command line run: lua hello.lua
+- On Windows command line run:
+```
+lua hello.lua
+```
 
 18- Matlab/Octave: hello.m
 
