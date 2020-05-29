@@ -40,6 +40,8 @@ A personal challenge to write a hello world program in 50 programming languages.
 On Windows:
 - Install Lua: http://luadist.org/
 - Install CMAKE: https://cmake.org/download/
+- Make sure the paths to Lua and CMAKE bin folders are in the PATH environment variable
+- On Windows command line: lua hello.lua
 
 18- Matlab/Octave: hello.m
 
