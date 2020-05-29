@@ -91,6 +91,26 @@ On Windows:
 
 30- Unix Shell: hello.sh
 
+On Ubuntu:
+- Install vim if it's not already installed:
+```
+sudo apt install vim
+```
+- Run following commands on the terminal:
+```
+touch hello.sh
+vim hello.sh
+```
+- Write your code, and exit (type i for insert mode, ESC to leave insert mode, :x to save and exit).
+- Run the command:
+```
+bash hello.sh
+```
+or
+```
+sh hello.sh
+```
+
 31- VBScript: hello.vbs
 
 32- Wyvern: hello.wyv
