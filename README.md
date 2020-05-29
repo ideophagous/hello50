@@ -76,6 +76,14 @@ lua hello.lua
 26- Python 3: hello3.py
 
 27- R: hello.R
+On Windows:
+- Download and install R: https://cran.r-project.org/bin/windows/base/
+- Make sure the path to bin folder is on the PATH environment variable
+- Run the following instructions on the command line:
+```
+cd path/to/script/folder
+Rscript hello.R
+```
 
 28- SQL: hello.sql (run on Oracle SQL Developer)
 
