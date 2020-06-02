@@ -1,7 +1,12 @@
 # hello50
 Hello World in 50 programming languages - 32/50
 
-A personal challenge to write a hello world program in 50 programming languages. The only two conditions are that the compiler has to be installed on a local machine, and the program has to be written manually, and run successfully.
+A personal challenge to write a hello world program in 50 programming languages. 
+
+## Conditions:
+- The compiler has to be installed on a local machine (not using an online compiler), both for Windows and Linux (Ubuntu).
+- The program has to be written manually.
+- It must be run successfully with no errors (message "Hello World" printed on the console or equivalent).
 
 1- Ada: hello.adb
 
