@@ -39,6 +39,15 @@ A personal challenge to write a hello world program in 50 programming languages.
 
 1. Elixir: hello.ex
 
+    On Windows:
+    - Install Elixir: https://elixir-lang.org/getting-started/introduction.html#installation
+    - Make sure the bin folder is on the PATH environment variable
+    - Write your script and run the following commands on the command line:
+    ```
+    > cd path/to/script/folder
+    > elixir hello.ex
+    ```
+
 1. Erlang: hello.erl
 
 1. Fortran: hello.f90
