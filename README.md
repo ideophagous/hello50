@@ -1,5 +1,5 @@
 # hello50
-Hello World in 50 programming languages - 32/50
+Hello World in 50 programming languages - 33/50
 
 A personal challenge to write a hello world program in 50 programming languages. 
 
@@ -95,6 +95,16 @@ On Windows:
 > Rscript hello.R
 ```
 
+1. Ruby: hello.rb
+
+On Windows:
+- Download and install Ruby: https://rubyinstaller.org/
+- Make sure the path to bin folder is on the PATH environment variable
+- Run the following instructions on the command line:
+```
+> cd path/to/script/folder
+> ruby hello.rb
+```
 1. SQL: hello.sql (run on Oracle SQL Developer)
 
 1. Swift: hello.swift
