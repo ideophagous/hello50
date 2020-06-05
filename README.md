@@ -31,9 +31,45 @@ A personal challenge to write a hello world program in 50 programming languages.
 
 1. C: hello.c
 
+    On Windows:
+    - Download and Install GCC: https://gcc.gnu.org/
+    - Check if GCC is properly or already installed by running the following instruction on the command line:
+    ```
+    > gcc -v
+    ```
+    or
+    ```
+    > gcc --version
+    ```
+    - If you get en error, check if GCC bin folder was added to the PATH environment variable.
+    - Write your hello.c program and run the following instructions:
+     ```
+    > cd path/to/script/folder
+    > gcc hello.c
+    > hello
+    ```
+
 1. C#: hello.cs
 
 1. C++: hello.cpp
+
+    On Windows:
+    - Download and Install MinGW: https://www.ics.uci.edu/~pattis/common/handouts/mingweclipse/mingw.html
+    - Check if g++ is properly or already installed by running the following instruction on the command line:
+    ```
+    > g++ -v
+    ```
+    or
+    ```
+    > g++ --version
+    ```
+    - If you get en error, check if MinGW bin folder was added to the PATH environment variable.
+    - Write your hello.c program and run the following instructions:
+     ```
+    > cd path/to/script/folder
+    > g++ -o hello.exe hello.c
+    > hello
+    ```
 
 1. Cobol: hello.cob
 
