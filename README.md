@@ -64,10 +64,10 @@ A personal challenge to write a hello world program in 50 programming languages.
     > g++ --version
     ```
     - If you get en error, check if MinGW bin folder was added to the PATH environment variable.
-    - Write your hello.c program and run the following instructions:
+    - Write your hello.cpp program and run the following instructions:
      ```
     > cd path/to/script/folder
-    > g++ -o hello.exe hello.c
+    > g++ -o hello.exe hello.cpp
     > hello
     ```
 
