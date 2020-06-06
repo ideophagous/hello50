@@ -16,7 +16,7 @@ A personal challenge to write a hello world program in 50 programming languages.
 
 1. Assembly (MASM32): hello.asm
 
-    On Windows:
+    **On Windows:**
     - Install MASM32: https://www.masm32.com/download.htm
     - Make sure the path to MASM32 bin folder is in the PATH environment variable
     - Run the following instructions on the Windows command line:
@@ -31,7 +31,7 @@ A personal challenge to write a hello world program in 50 programming languages.
 
 1. C: hello.c
 
-    On Windows:
+    **On Windows:**
     - Download and Install GCC: https://gcc.gnu.org/
     - Check if GCC is properly or already installed by running the following instruction on the command line:
     ```
@@ -53,7 +53,7 @@ A personal challenge to write a hello world program in 50 programming languages.
 
 1. C++: hello.cpp
 
-    On Windows:
+    **On Windows:**
     - Download and Install MinGW: https://www.ics.uci.edu/~pattis/common/handouts/mingweclipse/mingw.html
     - Check if g++ is properly or already installed by running the following instruction on the command line:
     ```
@@ -75,7 +75,7 @@ A personal challenge to write a hello world program in 50 programming languages.
 
 1. Elixir: hello.ex
 
-    On Windows:
+    **On Windows:**
     - Install Elixir: https://elixir-lang.org/getting-started/introduction.html#installation
     - Make sure the bin folder is on the PATH environment variable
     - Write your script and run the following commands on the command line:
@@ -102,7 +102,7 @@ A personal challenge to write a hello world program in 50 programming languages.
 
 1. Lua: hello.lua
 
-    On Windows:
+    **On Windows:**
     - Download Lua folder: http://luadist.org/
     - Install CMAKE: https://cmake.org/download/
     - Make sure the paths to Lua and CMAKE bin folders are in the PATH environment variable
@@ -132,7 +132,7 @@ A personal challenge to write a hello world program in 50 programming languages.
 
 1. R: hello.R
 
-    On Windows:
+    **On Windows:**
     - Download and install R: https://cran.r-project.org/bin/windows/base/
     - Make sure the path to bin folder is on the PATH environment variable
     - Run the following instructions on the command line:
@@ -143,7 +143,7 @@ A personal challenge to write a hello world program in 50 programming languages.
 
 1. Ruby: hello.rb
 
-    On Windows:
+    **On Windows:**
     - Download and install Ruby: https://rubyinstaller.org/
     - Make sure the path to bin folder is on the PATH environment variable
     - Run the following instructions on the command line:
@@ -158,7 +158,7 @@ A personal challenge to write a hello world program in 50 programming languages.
 
 1. Unix Shell: hello.sh
 
-    On Ubuntu:
+    **On Ubuntu:**
     - Install vim if it's not already installed:
     ```
     $ sudo apt install vim
@@ -178,7 +178,7 @@ A personal challenge to write a hello world program in 50 programming languages.
     § sh hello.sh
     ```
     
-    On Windows:
+    **On Windows:**
     - Install cygwin: https://cygwin.com/install.html
     - Install vim if it's not already installed. Run on the Cygwin terminal:
     ```
@@ -203,7 +203,7 @@ A personal challenge to write a hello world program in 50 programming languages.
 
 1. Wyvern: hello.wyv
 
-   On Windows:
+   **On Windows:**
    I was unsuccessful in executing wyvern on the command line, except through cygwin (which basically amounts to executing the program on a Linux system).
    - Install cygwin: https://cygwin.com/install.html
    - Make sure you have a compatible Java version (in my case 9 or above): https://www.oracle.com/java/technologies/javase-downloads.html
