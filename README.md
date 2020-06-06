@@ -204,7 +204,7 @@ A personal challenge to write a hello world program in 50 programming languages.
 1. Wyvern: hello.wyv
 
    **On Windows:**
-   I was unsuccessful in executing wyvern on the command line, except through cygwin (which basically amounts to executing the program on a Linux system).
+   I was unsuccessful in running Wyvern on the command line, except through cygwin (which basically amounts to executing the program on a Linux system).
    - Install cygwin: https://cygwin.com/install.html
    - Make sure you have a compatible Java version (in my case 9 or above): https://www.oracle.com/java/technologies/javase-downloads.html
    - Check if java was installed successfully:
