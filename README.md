@@ -161,21 +161,21 @@ A personal challenge to write a hello world program in 50 programming languages.
     On Ubuntu:
     - Install vim if it's not already installed:
     ```
-    sudo apt install vim
+    $ sudo apt install vim
     ```
     - Run following commands on the terminal:
     ```
-    touch hello.sh
-    vim hello.sh
+    $ touch hello.sh
+    $ vim hello.sh
     ```
     - Write your code, and exit (type i for insert mode, ESC to leave insert mode, :x to save and exit).
     - Run the command:
     ```
-    bash hello.sh
+    § bash hello.sh
     ```
     or
     ```
-    sh hello.sh
+    § sh hello.sh
     ```
 
 1. VBScript: hello.vbs
