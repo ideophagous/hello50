@@ -177,6 +177,27 @@ A personal challenge to write a hello world program in 50 programming languages.
     ```
     § sh hello.sh
     ```
+    
+    On Windows:
+    - Install cygwin: https://cygwin.com/install.html
+    - Install vim if it's not already installed. Run on the Cygwin terminal:
+    ```
+    $ apt-cyg install vim
+    ```
+    - Run following commands on the Cygwin terminal:
+    ```
+    $ touch hello.sh
+    $ vim hello.sh
+    ```
+    - Write your code, and exit (type i for insert mode, ESC to leave insert mode, :x to save and exit).
+    - Run the command:
+    ```
+    § bash hello.sh
+    ```
+    or
+    ```
+    § sh hello.sh
+    ```
 
 1. VBScript: hello.vbs
 
