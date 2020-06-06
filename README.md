@@ -118,6 +118,16 @@ A personal challenge to write a hello world program in 50 programming languages.
 
 1. Pascal: hello.pas
 
+On Windows:
+- Install fpc with Lazarus IDE: https://www.lazarus-ide.org/
+- Make sure fpc bin folder path is added to the PATH environment variable
+- Write your Pascal code in hello.pas, then run the following instructions on the command line:
+```
+> cd path/to/script/folder
+> fpc hello.pas
+> hello
+```
+
 1. Perl: hello.pl
 
 1. PL/SQL: hello.pls (run on Oracle SQL Developer)
